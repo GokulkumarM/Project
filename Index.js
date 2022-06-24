@@ -16,7 +16,7 @@
         <option value="8">Toy Story 4 ($8)</option>
         <option value="9">The Lion King ($9)</option>
       </select>
-    </div>
+    </div> 
 
     <ul class="showcase">
       <li>
